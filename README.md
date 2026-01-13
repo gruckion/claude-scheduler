@@ -1,3 +1,5 @@
+![Claude Scheduler](assets/banner.png)
+
 # Claude Scheduler
 
 **Schedule Claude to work while you sleep.**
