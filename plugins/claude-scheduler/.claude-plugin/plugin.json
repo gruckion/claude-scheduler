@@ -1,0 +1,13 @@
+{
+  "name": "claude-scheduler",
+  "version": "1.0.0",
+  "description": "Schedule Claude Code to run tasks at future times using macOS launchd or Linux cron",
+  "author": {
+    "name": "sigex",
+    "url": "https://github.com/sigex"
+  },
+  "homepage": "https://github.com/sigex/claude-scheduler",
+  "repository": "https://github.com/sigex/claude-scheduler",
+  "license": "MIT",
+  "keywords": ["scheduler", "automation", "launchd", "cron", "tasks", "reminder"]
+}
